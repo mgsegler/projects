@@ -1,0 +1,8 @@
+prefix=/home/leader/bebop_ws/devel
+
+Name: bebop_control
+Description: Description of bebop_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/leader/bebop_ws/devel/lib 
+Requires: 
