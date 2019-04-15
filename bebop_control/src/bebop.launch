@@ -1,0 +1,6 @@
+
+<launch>
+    <node pkg="bebop_control" type="bebop_logger.py" name="bebop_logger"  output="screen" />
+  <node pkg="bebop_control" type="bebop_control_test.py" name="bebop_control_test"  output="screen" launch-prefix="gnome-terminal --command" />
+
+</launch>
