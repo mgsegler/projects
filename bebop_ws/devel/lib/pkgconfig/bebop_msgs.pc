@@ -1,8 +1,0 @@
-prefix=/home/leader/bebop_ws/devel
-
-Name: bebop_msgs
-Description: Description of bebop_msgs
-Version: 0.7.0
-Cflags: -I/home/leader/bebop_ws/devel/include
-Libs: -L/home/leader/bebop_ws/devel/lib 
-Requires: message_runtime std_msgs
